@@ -1,4 +1,4 @@
-<img src="images/web scraping.jpeg" width="320" height="110" />
+<img src="images/web scraping.jpeg" width="370" height="150" />
 
 
 ### Colaborators: 
