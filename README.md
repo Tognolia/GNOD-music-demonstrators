@@ -30,7 +30,8 @@ We wanted to scrape the audio features from spotify in order to later cluster th
 Using KMeans technique we were able to cluster the audio features. A number of eight features were created and various test to check the most appropriate grouping were executed.
 * ### MVP
 As last step we created a functional prototype, MVP. This function would ask for and input and check if it belongs to the top 100 list or not. In the first case it would reccomend the user another song for the same list. On the other hand the code will get teh audiofeatures of the input song, check to which cluster it belongs and eventually suggest a song from the same cluster. 
-<img src="images/web scraping.jpeg" width="370" height="150" />
+
+<img src="images/gnod_2nd_iterarion.jpg" width="370" height="150" />
 
 
 # GNOD-music-demonstrators
