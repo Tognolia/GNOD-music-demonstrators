@@ -23,7 +23,9 @@ the project was part of the Iron Hack bootcamp 2021. We wanted to create a songe
 The project was developed using a project management process. Four modules compose the current result:
 
 * ### Web scraping
-dkfhsk
+First we scrapend the Billboards top 100 song website using CSS language and Beautiful soup library. (https://www.billboard.com/charts/hot-100)
+* ### Scrape audio features from Spotify - API
+We wanted to scrape the audio features from spotify in order to later cluster them. To do so we used Spotipy API. Thank to Spotipy we were able to download the top 50 song of a group of artist that we like. The total number of songs is about 2000. 
 
 
 # GNOD-music-demonstrators
