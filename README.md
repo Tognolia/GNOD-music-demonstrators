@@ -33,5 +33,13 @@ As last step we created a functional prototype, MVP. This function would ask for
 
 <img src="images/gnod_2nd_iteration.jpg" width="470" height="250" />
 
+## Next step
+
+We will work on:
+- Create a larger dataframe of songs
+- More roboust function
+- Better user interface
+
+
 
 # GNOD-music-demonstrators
