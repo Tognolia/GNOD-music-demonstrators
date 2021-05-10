@@ -14,5 +14,9 @@
 * [Web Scraping | Top 10 languages](https://github.com/Tognolia/GNOD-music-demonstrators/blob/main/lab%20%7C%20web%20scraping%20%26%20MVP/Lab%20%7C%20web%20scraping%20-%20%20top%2010%20languages.ipynb)
 * [Web Scraping | The 20 latest earthquakes](https://github.com/Tognolia/GNOD-music-demonstrators/blob/main/lab%20%7C%20web%20scraping%20%26%20MVP/Lab%20%7C%20web%20scraping%20%7C%20the%2020%20latest%20earthquakes%20info.ipynb)
 
+### Project outline
+
+the project was part of the Iron Hack bootcamp 2021. We wanted to create a songe reccomender to help users discover new songs similar to the one they already liked and enhance theyr music portfolio. Web scraping and unsupervised learning techniques were applied as well as data wrangling and cleaning. 
+
 
 # GNOD-music-demonstrators
